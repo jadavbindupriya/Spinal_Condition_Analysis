@@ -52,8 +52,8 @@ The dataset used in this project is stored in the `dataset/` folder.
 ## **Installation & Setup**
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/jadavbindupriya/spine-condition-analysis.git
-cd spine-condition-analysis
+git clone https://github.com/jadavbindupriya/Spinal_Condition_Analysis.git
+cd Spinal_Condition_Analysis
 pip install -r requirements.txt
 ```
 
