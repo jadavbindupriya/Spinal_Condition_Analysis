@@ -12,7 +12,7 @@ This project applies machine learning models to analyze **biomechanical data** a
 **Dataset**
 The dataset used in this project is stored in the `dataset/` folder.
 
-🔗 [Download Dataset](https:/jadavbindupriya/github.com//spine-condition-analysis/tree/main/dataset/Dataset_spine.csv)
+🔗 [Download Dataset](https://github.com/jadavbindupriya/Spinal_Condition_Analysis/blob/main/dataset/Dataset_spine.csv)
 
 - **Features:**
   - Pelvic Incidence, Pelvic Tilt, Lumbar Lordosis Angle, Sacral Slope, Pelvic Radius
