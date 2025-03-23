@@ -9,6 +9,11 @@ This project applies machine learning models to analyze **biomechanical data** a
 - Explore feature importance to enhance prediction accuracy.
 
 ## **Dataset Overview**
+**Dataset**
+The dataset used in this project is stored in the `dataset/` folder.
+
+🔗 [Download Dataset](https:/jadavbindupriya/github.com//spine-condition-analysis/tree/main/dataset/Dataset_spine.csv)
+
 - **Features:**
   - Pelvic Incidence, Pelvic Tilt, Lumbar Lordosis Angle, Sacral Slope, Pelvic Radius
   - Degree Spondylolisthesis, Pelvic Slope, Direct Tilt, Thoracic Slope, Cervical Tilt, Sacrum Angle, Scoliosis Slope
